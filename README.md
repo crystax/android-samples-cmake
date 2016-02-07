@@ -1,10 +1,10 @@
-Use CMake for build Android binaries with CrystaX NDK
+Simple CMake-enabled example working with CrystaX NDK
 ============================================================
 
 This is an example showing how to use CMake for building Android binaries
 with [CrystaX NDK](https://www.crystax.net/android/ndk) (version 10.4.0 or higher).
 Alternatively, you can download [CrystaX NDK daily build](https://dl.crystax.net/builds/)
-(build #799 or higher needed).
+(build #802 or higher needed).
 
 This sample written in a way to be portable, so it works the same on OS X, GNU/Linux and Android.
 Here is example:
